@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Run \`cd /srv/http/www\` to enter the site root directory."
+
+fig run --rm php /bin/bash
